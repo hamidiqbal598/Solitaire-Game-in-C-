@@ -2,7 +2,7 @@
 //  main.cpp
 //  Solitaire
 //
-//  Created by Ahmad Shaheer on 04/10/2019.
+//  Created by Hamid Iqbal on 04/10/2015.
 //  Copyright © 2019 Hamid Iqbal. All rights reserved.
 //
 
